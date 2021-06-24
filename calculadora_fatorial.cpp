@@ -21,7 +21,6 @@ main()
     while(contagem < numero){
         resultado = resultado*contagem;
         contagem = contagem + 1;
-        //mudar o modo de escrever
     }
     
     // saída de dados
