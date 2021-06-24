@@ -1,13 +1,13 @@
 /////////////////////////////////////
 // SCRIPT PARA CALCULAR O FATORIAL //
-//////////////////////////////////////
+/////////////////////////////////////
 
 #include <stdio.h>
 #include <stdlib.h>
 
 main()
 {
-    // declararaÁ„o de vari·veis
+    // declarara√ß√£o de vari√°veis
     float numero, resultado;
     int contagem = 1;
     
@@ -24,7 +24,7 @@ main()
         //mudar o modo de escrever
     }
     
-    // saÌda de dados
+    // sa√≠da de dados
     printf("\n%.0f! = %.0f", numero, resultado);
     
     printf("\n\n");
